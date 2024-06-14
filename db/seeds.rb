@@ -20,8 +20,8 @@ csv_airport_codes.each do |row|
   airport.country = row['Country']
   airport.code = row['Code']
   airport.continent = row['Continent']
-  airport.save
-  puts "Saved #{airport.code} at #{airport.city}, #{airport.country}, #{airport.continent}"
+  puts "#{airport.code} dup" unless airport.save
+  # puts "Saved #{airport.code} at #{airport.city}, #{airport.country}, #{airport.continent}"
 end
 
 puts "Seeded #{Airport.count} airports into Airport table"

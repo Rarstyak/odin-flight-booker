@@ -44,6 +44,9 @@ BookingsController
 ```
 rails g model Airport city:string country:string continent:string code:string
 
+rails db:migrate
+rails db:seed or db:reset
+
 rails g model Flight
 - belongs_to :departure_airport, class_name: 'Airport', foreign_key: 'airport_id'
 - belongs_to :arrival_airport, class_name: 'Airport', foreign_key: 'airport_id'

@@ -1,4 +1,4 @@
-City,Country ,Code,Continent
+City,Country,Code,Continent
 Praia,Cape Verde,RAI,Africa
 Cape Town,South Africa,CPT,Africa
 Johannesburg - Johannesburg Int'l,South Africa,JNB,Africa
@@ -39,7 +39,6 @@ Yamoussoukro,Côte d'Ivoire (Ivory Coast),ASK,Africa
 Djibouti,Djibouti,JIB,Africa
 Abu Rudeis,Egypt,AUE,Africa
 Abu Simbel,Egypt,ABS,Africa
-Al Arish,Egypt,AAC,Africa
 Al Arish,Egypt,AAC,Africa
 "Alexandria, El Nhouza Airport",Egypt,ALY,Africa
 Assiut,Egypt,ATZ,Africa
@@ -204,7 +203,6 @@ Kyoto,Japan,UKY,Asia
 Nagoya - Komaki AFB,Japan,NGO,Asia
 Tokyo,Japan,TYO,Asia
 Tokyo - Haneda,Japan,HND,Asia
-Tokyo - Narita,Japan,NRT,Asia
 Male - International,Maledives,MLE,Asia
 Kathmandu - Tribhuvan,Nepal,KTM,Asia
 Seoul - Incheon Int'l Airport,South Korea,ICN,Asia
@@ -395,7 +393,6 @@ Sarajevo,Bosnia and Herzegovina,SJJ,Eastern Europe
 Sofia - Vrazhdebna,Bulgaria,SOF,Eastern Europe
 Nadi,Fiji,NAN,South Pacific
 Suva/Nausori,Fiji,SUV,South Pacific
-Nausori,Fiji/Suva,SUV,South Pacific
 "Budapest, Ferihegy",Hungary,BUD,Eastern Europe
 Skopje,Macedonia,SKP,Eastern Europe
 Bucharest,Romania,BUH,Eastern Europe
@@ -1711,7 +1708,6 @@ Lome,Togo,LFW,South Pacific
 Nuku'alofa - Fua'Amotu International,Tonga,TBU,South Pacific 
 Phnom Penh - Pochentong,Cambodia,PNH,Southeast Asia
 Vientiane - Wattay,Laos,VTE,Southeast Asia
-Rangoon (Yangon) - Mingaladon,Myanmar (Burma),RGN,Southeast Asia
 Yangon (Rangoon) - Mingaladon,Myanmar (Burma),RGN,Southeast Asia
 Bandar Seri Begawan,Brunei,BWN,Southeast Asia
 Kuala Belait,Brunei,KUB,Southeast Asia
